@@ -1,3 +1,6 @@
+Halid Elnehsen
+250541617
+
 Bu görevde sayısal değerler tablo formatında ekrana yazdırılmıştır.
 
  Üslü Sayılar Tablosu:
@@ -11,3 +14,4 @@ Mil değerleri kilometreye çevrilmiştir. (1 mil = 1.609 km)
 
 Amaç:
 Tablo biçiminde düzenli çıktı oluşturmak, sayıları biçimlendirmeyi ve println ile hizalamayı öğrenmek.
+
