@@ -1,8 +1,5 @@
-Halid Elnehsen
-  250541617
-// Online Java Compiler
-// Use this editor to write, compile and run your Java code online
-
+//Halid Elnehsen
+//  250541617
 class UcMesaj {
     public static void main(String[] args) {
         System.out.println("Java'ya Hos Geldiniz");
@@ -10,3 +7,4 @@ class UcMesaj {
         System.out.println("Programlama Eglencelidir");
     }
 }
+
