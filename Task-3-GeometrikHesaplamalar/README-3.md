@@ -1,5 +1,6 @@
 Halid Elnehsen
 250541617
+
 Bu görevde daire, dikdörtgen ve üçgenin alan ve daire hesaplamaları yapılmıştır.
 
 Kullanılan formüller:
@@ -9,3 +10,4 @@ Kullanılan formüller:
 
 Amaç:
 Geometrik şekillerin alan ve çevre formüllerini Java değişkenleriyle uygulamak,
+
