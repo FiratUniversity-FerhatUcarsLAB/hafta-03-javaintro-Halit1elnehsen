@@ -1,7 +1,5 @@
-Halid Elnehsen
-  250541617
-// Online Java Compiler
-// Use this editor to write, compile and run your Java code online
+//Halid Elnehsen
+ // 250541617
 class Main {
     public static void main(String[] args) {
     double pay = (9.5*-3.5)-(2.5*3);
@@ -10,4 +8,5 @@ class Main {
         System.out.printf("%.4f\n",sonuc);
     }
 }
+
 
