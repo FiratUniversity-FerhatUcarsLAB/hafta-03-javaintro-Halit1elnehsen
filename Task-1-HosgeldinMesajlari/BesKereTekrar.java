@@ -1,6 +1,6 @@
 //Halid Elnehsen
   //250541617
-class UcMesaj {
+class BesKereTekrar {
     public static void main(String[] args) {
         System.out.println("Java'ya hos geldiniz");
         System.out.println("Java'ya hos geldiniz");
@@ -9,4 +9,5 @@ class UcMesaj {
         System.out.println("Java'ya hos geldiniz");
     }
 }
+
 
